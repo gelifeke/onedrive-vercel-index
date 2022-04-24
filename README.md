@@ -26,7 +26,7 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 🚀 Quick start: [Getting started](https://ovi.swo.moe/docs/getting-started).
 
-## Discussion
+## Discussio
 
 Please go to our [discussion forum](https://github.com/spencerwooo/onedrive-vercel-index/discussions) for general questions and FAQs, **issues are for bug reports and bug reports only.** Feature requests may or may not be ignored, as [I (@spencerwooo)](https://spencerwoo.com) am the only one maintaining the project, so **I only prioritise features that I use.**
 
